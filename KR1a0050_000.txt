@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 丙子學易編
-#+DATE: 2015-09-23 09:34:37
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 21:55:29.085573
+#+PROPERTY: ID KR1a0050
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1a0050_WYG_000-1a>¶
 欽定四庫全書　　　　經部一¶
 　丙子學易編　　　　　易類¶
@@ -43,6 +45,7 @@
 　　　　恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
+#+PROPERTY: JUAN 序
 <pb:KR1a0050_WYG_000-4a>¶
 　丙子學易編序¶
 始心傳年四十餘朋友為言當讀易意忻焉樂之既而¶
@@ -64,4 +67,3 @@
 <pb:KR1a0050_WYG_000-5a>¶
 裏耳嘉定九年嵗次丙子春三月甲申陵陽李心傳謹¶
 序¶
-

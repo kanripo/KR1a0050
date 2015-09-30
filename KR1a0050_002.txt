@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 丙子學易編
-#+DATE: 2015-09-23 09:34:37
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 21:55:29.124110
+#+PROPERTY: ID KR1a0050
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後序
 <pb:KR1a0050_WYG_002-1a>¶
 丙子學易編後序¶
 右學易編十五卷起丙子月正元日盡是嵗除夕凡三¶
@@ -43,4 +45,3 @@
 推求考索測度髣髴之言而反疑前賢終身篤學研思¶
 精㣲至到之論若是者愚竊大懼故復述其所聞識於¶
 編端以示子姓而同志之士可與共學者亦所不隠焉¶
-

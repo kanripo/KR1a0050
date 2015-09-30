@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 丙子學易編
-#+DATE: 2015-09-23 09:34:37
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 21:55:29.105328
+#+PROPERTY: ID KR1a0050
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 丙子學易編
 <pb:KR1a0050_WYG_001-1a>¶
 欽定四庫全書¶
 　丙子學易編¶
@@ -596,4 +598,3 @@
 　¶
 　¶
 　丙子學易編¶
-
